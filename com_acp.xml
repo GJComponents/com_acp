@@ -36,6 +36,7 @@
 
 	<!-- Front-end files -->
 	<files folder="components/com_com_acp">
+
 		<filename>com_acp.php</filename>
 		<filename>controller.php</filename>
 		<folder>controllers</folder>
@@ -64,6 +65,7 @@
 			<filename>config.xml</filename>
 			<filename>controller.php</filename>
 			<filename>LICENSE.txt</filename>
+			<filename>README.md</filename>
 			<folder>controllers</folder>
 			<folder>helpers</folder>
 			<folder>language</folder>
