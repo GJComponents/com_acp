@@ -65,7 +65,7 @@
 			<filename>config.xml</filename>
 			<filename>controller.php</filename>
 			<filename>LICENSE.txt</filename>
-			<filename>README.md</filename>
+
 			<folder>controllers</folder>
 			<folder>helpers</folder>
 			<folder>language</folder>
@@ -81,3 +81,5 @@
 		<server type="extension" priority="1" name="gartes-Router">https://www.example.com/com_acp.xml</server>
 	</updateservers>
 </extension>
+
+<!-- https://github.com/GJComponents/com_acp/archive/master.zip -->
